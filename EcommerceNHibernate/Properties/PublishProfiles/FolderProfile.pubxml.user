@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <History>True|2024-05-09T15:24:14.1267185Z;True|2024-05-09T11:19:24.0560113-03:00;True|2024-05-09T11:15:14.1420534-03:00;True|2024-05-09T11:09:08.4369285-03:00;True|2024-05-09T11:06:22.3593240-03:00;True|2024-05-09T10:24:42.2225925-03:00;True|2024-05-09T10:17:28.9011747-03:00;True|2024-05-09T09:52:28.9685972-03:00;False|2024-05-09T09:51:14.8572219-03:00;True|2024-05-09T08:39:13.7121970-03:00;False|2024-05-09T08:38:15.3181700-03:00;False|2024-05-09T08:36:30.0394666-03:00;False|2024-05-09T08:35:17.3098305-03:00;False|2024-05-09T08:29:45.2373076-03:00;</History>
+    <LastFailureDetails />
+    <_PublishTargetUrl>C:\inetpub\ecommercenhibernate</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=DESKTOP-REAQK5B%3bInitial Catalog=EcommerceBD%3bTrusted_Connection=True%3bMultipleActiveResultSets=true%3bEncrypt=False</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Aplication\bin\Debug\net6.0\EcommerceNHibernate.Aplication.deps.json
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Aplication\bin\Debug\net6.0\EcommerceNHibernate.Aplication.dll
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Aplication\bin\Debug\net6.0\EcommerceNHibernate.Aplication.pdb
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Aplication\bin\Debug\net6.0\EcommerceNHibernate.Domain.dll
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Aplication\bin\Debug\net6.0\EcommerceNHibernate.Persistance.dll
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Aplication\bin\Debug\net6.0\EcommerceNHibernate.Domain.pdb
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Aplication\bin\Debug\net6.0\EcommerceNHibernate.Persistance.pdb
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Aplication\obj\Debug\net6.0\EcommerceNHibernate.Aplication.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Aplication\obj\Debug\net6.0\EcommerceNHibernate.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Aplication\obj\Debug\net6.0\EcommerceNHibernate.Aplication.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Aplication\obj\Debug\net6.0\EcommerceNHibernate.Aplication.AssemblyInfo.cs
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Aplication\obj\Debug\net6.0\EcommerceNHibernate.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Aplication\obj\Debug\net6.0\Ecommerc.37BB13BB.Up2Date
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Aplication\obj\Debug\net6.0\EcommerceNHibernate.Aplication.dll
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Aplication\obj\Debug\net6.0\refint\EcommerceNHibernate.Aplication.dll
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Aplication\obj\Debug\net6.0\EcommerceNHibernate.Aplication.pdb
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Aplication\obj\Debug\net6.0\ref\EcommerceNHibernate.Aplication.dll

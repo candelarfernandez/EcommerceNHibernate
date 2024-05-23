@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Domain\bin\Debug\net6.0\EcommerceNHibernate.Domain.deps.json
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Domain\bin\Debug\net6.0\EcommerceNHibernate.Domain.dll
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Domain\bin\Debug\net6.0\EcommerceNHibernate.Domain.pdb
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Domain\obj\Debug\net6.0\EcommerceNHibernate.Domain.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Domain\obj\Debug\net6.0\EcommerceNHibernate.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Domain\obj\Debug\net6.0\EcommerceNHibernate.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Domain\obj\Debug\net6.0\EcommerceNHibernate.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Domain\obj\Debug\net6.0\EcommerceNHibernate.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Domain\obj\Debug\net6.0\EcommerceNHibernate.Domain.dll
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Domain\obj\Debug\net6.0\refint\EcommerceNHibernate.Domain.dll
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Domain\obj\Debug\net6.0\EcommerceNHibernate.Domain.pdb
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Domain\obj\Debug\net6.0\ref\EcommerceNHibernate.Domain.dll

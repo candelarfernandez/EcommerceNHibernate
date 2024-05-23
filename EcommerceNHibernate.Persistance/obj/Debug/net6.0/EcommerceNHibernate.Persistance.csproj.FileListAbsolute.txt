@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Persistance\bin\Debug\net6.0\EcommerceNHibernate.Persistance.deps.json
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Persistance\bin\Debug\net6.0\EcommerceNHibernate.Persistance.dll
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Persistance\bin\Debug\net6.0\EcommerceNHibernate.Persistance.pdb
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Persistance\bin\Debug\net6.0\EcommerceNHibernate.Domain.dll
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Persistance\bin\Debug\net6.0\EcommerceNHibernate.Domain.pdb
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Persistance\obj\Debug\net6.0\EcommerceNHibernate.Persistance.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Persistance\obj\Debug\net6.0\EcommerceNHibernate.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Persistance\obj\Debug\net6.0\EcommerceNHibernate.Persistance.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Persistance\obj\Debug\net6.0\EcommerceNHibernate.Persistance.AssemblyInfo.cs
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Persistance\obj\Debug\net6.0\EcommerceNHibernate.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Persistance\obj\Debug\net6.0\Ecommerc.DBF23A9D.Up2Date
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Persistance\obj\Debug\net6.0\EcommerceNHibernate.Persistance.dll
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Persistance\obj\Debug\net6.0\refint\EcommerceNHibernate.Persistance.dll
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Persistance\obj\Debug\net6.0\EcommerceNHibernate.Persistance.pdb
+C:\Users\User\source\repos\EcommerceNHibernate\EcommerceNHibernate.Persistance\obj\Debug\net6.0\ref\EcommerceNHibernate.Persistance.dll
